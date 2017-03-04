@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+
+}
+h1{
+padding-top: 15px ; 
+}
+h1,h3{
+	margin: 0;
+	text-align:center;
+}
+ul{
+	list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+	text-decoration: none;
+	color:#2C628B;
+}
+.wrapper{
+	width: 100%;
+	margin:0 auto;
+	min-height: auto;
+}
+header{
+	width: 100%;
+   display: block; 
+ 
+   margin:0;
+   min-height: 100px;   
+	background: #5879A7;
+	text-shadow:1px 1px 1px rgba(0, 0, 0, 0.8);
+	position:top;
+	box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.75);
+
+}
