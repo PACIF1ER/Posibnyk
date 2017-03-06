@@ -108,4 +108,39 @@ font-style: italic;
 .test{
 	 list-style-type: lower-latin;
 }
+.symbol-list{
+	list-style-type: upper-latin;
+}
+.topbutton {
+opacity: 0.75;
+width:100px;
+border:2px solid #e8e8f4;
+background:#f7f7f7;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:50px;
+right:50px;
+cursor:pointer;
+color:#333;
+font-family:verdana;
+font-size:12px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+}
+.topbutton:hover{
+	opacity: 1;
+	background: #dbd1f9;
+}
+.questions {
+    font-size: 19px;
+    text-align: center;
+    font-weight: bold;
+    padding: 50px;
+    }
 
+
+
+    
